@@ -1,7 +1,6 @@
 package am.student.StudentManagement.service.impl;
 
 import am.student.StudentManagement.entity.Lesson;
-import am.student.StudentManagement.entity.User;
 import am.student.StudentManagement.repository.LessonRepository;
 import am.student.StudentManagement.service.LessonService;
 import org.springframework.stereotype.Service;
